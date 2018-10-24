@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup as BS
 """
 Search for another UCONN affiliate's basic information (e.g. name, email) using selenium
 
-Dependent on selenium, bs4, and getpass (getpass might come with python actually
+Dependent on selenium, bs4, and getpass (getpass might come with python actually)
 """
 
 search_text = raw_input("Enter name, form, email, or NetID to search for: ")
